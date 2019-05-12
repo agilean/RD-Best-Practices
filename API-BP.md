@@ -10,3 +10,16 @@
 
 ## Restful API设计最佳实践
 
+## 参考案例
+
+https://www.elastic.co/guide/en/elasticsearch/reference
+
+RFC7807：API错误处理最佳实践 https://mp.weixin.qq.com/s?__biz=MjM5NTg2NTU0Ng%3D%3D&chksm=bd5d2c238a2aa5354cc1d6de2804895cd46d655963433ce7b07891f3f2e40d9931cd0d990741&idx=2&mid=2656598662&scene=0&sn=1bb738ad2ee92c5963dd94cba03dd0b9#rd
+
+https://tools.ietf.org/html/rfc7807
+
+RESTful API的十个最佳实践  https://www.cnblogs.com/xiaoyaojian/p/4612503.html
+
+RESTful Service API 设计最佳工程实践和常见问题解决方案 https://www.jianshu.com/p/cf80d644727e
+
+REST API 设计与开发最佳实践 http://www.21cto.com/article/1751
