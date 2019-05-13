@@ -10,6 +10,33 @@
 
 ## Restful API设计最佳实践
 
+### 一类资源两个URL
+
+一个URL表示该类型资源集合，另一个URL用来表示特定的资源元素。
+
+1. 资源集合：/epics
+2. 资源元素：/epics/5
+
+### 使用名词而不是动词
+
+反例：
+
+```
+/getAllEmployees
+/getAllExternalEmployees
+/createEmployee
+/updateEmployee
+```
+
+正例：
+
+```
+GET /employees
+GET /employees?state=external
+POST /employees
+PUT /employees/56
+```
+
 ## 参考案例
 
 https://www.elastic.co/guide/en/elasticsearch/reference
