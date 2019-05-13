@@ -23,3 +23,5 @@ RESTful API的十个最佳实践  https://www.cnblogs.com/xiaoyaojian/p/4612503.
 RESTful Service API 设计最佳工程实践和常见问题解决方案 https://www.jianshu.com/p/cf80d644727e
 
 REST API 设计与开发最佳实践 http://www.21cto.com/article/1751
+
+[RESTful API Design. Best Practices in a Nutshell.](https://phauer.com/2015/restful-api-design-best-practices/)
